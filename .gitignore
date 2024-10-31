@@ -1,0 +1,12 @@
+# Ignore Python cache and environment folders
+__pycache__/
+venv/
+
+# Ignore Jupyter notebook checkpoints (if you use Jupyter notebooks)
+.ipynb_checkpoints/
+
+# Ignore other temporary or unnecessary files
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
